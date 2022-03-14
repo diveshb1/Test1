@@ -9,4 +9,8 @@ public class ATest {
 	public void test01() {
 		Assert.assertTrue(true);
 	}
+	@Test
+	public void test02() {
+		Assert.assertTrue(true);
+	}
 }
