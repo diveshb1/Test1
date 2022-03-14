@@ -13,4 +13,8 @@ public class ATest {
 	public void test02() {
 		Assert.assertTrue(true);
 	}
+	@Test
+	public void test03() {
+		Assert.assertTrue(true);
+	}
 }
